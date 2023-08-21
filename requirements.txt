@@ -3,6 +3,6 @@ gluonnlp == 0.8.0
 mxnet ==1.7.0.post2
 onnxruntime == 1.8.0, <=1.8.0
 sentencepiece >= 0.1.6, <=0.1.96
-torch == 1.4.0
+torch == 1.7.0
 transformers ==3.5.1
 numpy ==1.16.6
