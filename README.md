@@ -1,3 +1,5 @@
+이 모델은 공식 KoBERT 모델을 나의 python 버전, CUDA 버전 등등의 버전에 맞게 requirments.txt를 수정한 것이다
+
 # KoBERT
 
 * [KoBERT](#kobert)
