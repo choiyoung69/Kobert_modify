@@ -4,3 +4,4 @@ mxnet-cu116 ==1.0.0
 onnxruntime == 1.8.0, <=1.8.0
 sentencepiece >= 0.1.6, <=0.1.96
 transformers ==4.27.0
+torch >= 1.7.0, <=1.10.1
